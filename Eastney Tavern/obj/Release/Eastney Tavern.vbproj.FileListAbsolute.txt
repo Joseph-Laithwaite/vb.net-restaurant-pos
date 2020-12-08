@@ -1,0 +1,56 @@
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.pdb
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\ResolveAssemblyReference.cache
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmEmployees.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmLogin.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMeal.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMenu.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmReports.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmSettingsHelp.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.Resources.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmOrders.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmSettingsHelp.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Release\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmSettingsHelp.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Release\Eastney Tavern.application

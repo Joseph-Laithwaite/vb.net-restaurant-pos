@@ -1,0 +1,300 @@
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmSuppliers.resources
+\\vmware-host\Shared Folders\Documents\College\A2\Computing\Comp 4 Coursework\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\Eastney Tavern\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+G:\A2\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\BackUps\02-12-2014 Peoject\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+G:\A2\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\BackUps\02-12-2014 Peoject\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+G:\A2\A2 Computing\Unit 4 - Comp 4 Practical\Eastney Tavern\BackUps\02-12-2014 Peoject\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\A2 Computing\Laithwaite Joseph Eastney Tavern\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\02-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\06-12-2014 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\USB Disk\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\USB Disk\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\USB Disk\06-12-2014 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\11-1-2015 Project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\11-1-2015 Project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\A2 Computing\Unit 4 - Comp 4 Practical\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.application
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Stuff\Completed project\Eastney Tavern\obj\Debug\Eastney Tavern.application
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\Current\Eastney Tavern\bin\Debug\Eastney Tavern.exe.manifest
+E:\Current\Eastney Tavern\bin\Debug\Eastney Tavern.application
+E:\Current\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\Current\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\Current\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\Current\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\Current\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.exe.manifest
+E:\Current\Eastney Tavern\obj\Debug\Eastney Tavern.application
+E:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+D:\Current\Program\Eastney Tavern\bin\Debug\Eastney Tavern.exe.manifest
+D:\Current\Program\Eastney Tavern\bin\Debug\Eastney Tavern.application
+D:\Current\Program\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+D:\Current\Program\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+D:\Current\Program\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+D:\Current\Program\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe.manifest
+D:\Current\Program\Eastney Tavern\obj\Debug\Eastney Tavern.application
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.pdb
+E:\JL Final Project\Program\Eastney Tavern\bin\Debug\Eastney Tavern.exe.manifest
+E:\JL Final Project\Program\Eastney Tavern\bin\Debug\Eastney Tavern.application
+E:\JL Final Project\Program\Eastney Tavern\bin\Debug\Eastney Tavern.exe
+E:\JL Final Project\Program\Eastney Tavern\bin\Debug\Eastney Tavern.pdb
+E:\JL Final Project\Program\Eastney Tavern\bin\Debug\Eastney Tavern.xml
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\ResolveAssemblyReference.cache
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.Cache
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe.manifest
+E:\JL Final Project\Program\Eastney Tavern\obj\Debug\Eastney Tavern.application
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.vbprojAssemblyReference.cache
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmEmployees.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMeal.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmReports.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmSettingsHelp.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\WindowsApplication1.frmOrders.resources
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.GenerateResource.cache
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.vbproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.exe
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.xml
+C:\Users\joela\OneDrive\Desktop\Program\Eastney Tavern\obj\Debug\Eastney Tavern.pdb

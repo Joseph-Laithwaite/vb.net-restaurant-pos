@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Eastney Tavern.exe" version="1.0.0.7" publicKeyToken="97dade7abb628271" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Eastney Tavern" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Eastney Tavern.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Eastney Tavern.exe" size="281600">
+      <assemblyIdentity name="Eastney Tavern" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lpHBwbTJlyQb5x0JgYJMtg39bZU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=WIN-5DC6J03C3LO\Joseph Laithwaite" issuerKeyHash="a69acfed222e2132d0e45ca96f043a1a4b8980c4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nEQ8v9lK6PzmzKKnhRAnryC9rMo=</DigestValue></Reference></SignedInfo><SignatureValue>z2oP3019qz98E83OZXER0a6nZlBB1zu+ghSJYNZ2nmfkjIDgLcpVVWA4dEt3V2FJFDyriXi5N58i7aW5UbcslDEf/AXkvaUBFC/YUXgmaTDW3MTMcm1l07ycf2CRsBYoBtL95qERPCwL7Ve2btNrA8rQyeq8fGfPAnf/IE2YoDs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3ysLcKYmcWs6aeCM+SdzYJeYj1m3e2zWwBHpMszQqvUoqYpJ1uHihIA4rVvNyTQAmER0Lg7b/7EeR3lCh+ZoWoh2cC6a+5un7PoH8+MXjPAkQ38TjTopxljc1ijYZfolWtlgKa/mfFMhiQuU+Ew/ZzBtyuFtQ+ozS4NozJ7gJCs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="caacbd20af271085a7a2cce6fce84ad9bf3c449c" Description="" Url=""><as:assemblyIdentity name="Eastney Tavern.exe" version="1.0.0.7" publicKeyToken="97dade7abb628271" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WIN-5DC6J03C3LO\Joseph Laithwaite</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vPuPWI+08+yyR3R2E4Wg107GDzA=</DigestValue></Reference></SignedInfo><SignatureValue>cd3c3hVjm82KWH6303u1zD5QcF1AfQxrVBVIlwL4R9rtfIJ0mWPkFpFH5RGXC1hYX0dXSbMsH2nqx45+jzAJfaojTo04bmNhukOqVZWECIqyjTrZ3GxoDRG9xXWa4EReUngm+TLyaeDnBH22q5kCh1uZSqfEfKuzN54Z31HW4GM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3ysLcKYmcWs6aeCM+SdzYJeYj1m3e2zWwBHpMszQqvUoqYpJ1uHihIA4rVvNyTQAmER0Lg7b/7EeR3lCh+ZoWoh2cC6a+5un7PoH8+MXjPAkQ38TjTopxljc1ijYZfolWtlgKa/mfFMhiQuU+Ew/ZzBtyuFtQ+ozS4NozJ7gJCs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICHTCCAYagAwIBAgIQP9UfiN4AyJpNzhDB6Le+HTANBgkqhkiG9w0BAQUFADBNMUswSQYDVQQDHkIAVwBJAE4ALQA1AEQAQwA2AEoAMAAzAEMAMwBMAE8AXABKAG8AcwBlAHAAaAAgAEwAYQBpAHQAaAB3AGEAaQB0AGUwHhcNMTUwMjE1MTY1ODE4WhcNMTYwMjE1MjI1ODE4WjBNMUswSQYDVQQDHkIAVwBJAE4ALQA1AEQAQwA2AEoAMAAzAEMAMwBMAE8AXABKAG8AcwBlAHAAaAAgAEwAYQBpAHQAaAB3AGEAaQB0AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAN8rC3CmJnFrOmngjPknc2CXmI9Zt3ts1sAR6TLM0Kr1KKmKSdbh4oSAOK1bzck0AJhEdC4O2/+xHkd5QofmaFqIdnAumvubp+z6B/PjF4zwJEN/E406KcZY3NYo2GX6JVrZYCmv5nxTIYkLlPhMP2cwbcrhbUPqM0uDaMye4CQrAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEATBaRUx6j9erENBXBs5JdDZ9c+zaQEnSpFMzc122hnOPrh8/EHbUQXMxLv2n7o1jfGBLDHfw49ms9oyu/u4LjGVyyXgMkaXbyfgxvpq4a1XaiXBIuBuLQ70ftPrphE9nw7c2/TPXvuuHaYHk+/ENv1SPAHKeoA5Bz9+eREBEDJLY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
